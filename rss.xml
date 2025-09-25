@@ -9,7 +9,7 @@
 
     <!-- iTunes metadata -->
     <itunes:author>KO-Rutan</itunes:author>
-    <itunes:summary>Fightngspelspodddden där Oscar och Herman pratar om fightingspel och massa annat </itunes:summary>
+    <itunes:summary>Fightngspelspodden där Oscar och Herman pratar om fightingspel och massa annat </itunes:summary>
     <itunes:owner>
       <itunes:name>KO-Rutan</itunes:name>
       <itunes:email>dinmail@example.com</itunes:email>
@@ -31,4 +31,5 @@
 
   </channel>
 </rss>
+
 
