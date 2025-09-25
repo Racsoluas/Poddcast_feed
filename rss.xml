@@ -20,16 +20,21 @@
 
 
     <!-- === AVSNITT START === -->
-    <item>
-      <title>Round 1: Det hände en Direct</title>
-      <enclosure url="https://racsoluas.se/Podd/KORutan%20Avsnitt%201%20MP3.mp3" length="72847360" type="audio/mpeg"/>
-      <guid>https://racsoluas.se/Podd/KORutan%20Avsnitt%201%20MP3.mp3</guid>
-      <pubDate>Thu, 25 Sep 2025 10:00:00 GMT</pubDate>
-      <description>Det hände en Direct</description>
-    </item>
+<item>
+  <title>Round 1: Det hände en Direct</title>
+  <enclosure url="https://racsoluas.se/Podd/KORutan%20Avsnitt%201%20MP3.mp3" length="72847360" type="audio/mpeg"/>
+  <guid>https://racsoluas.se/Podd/KORutan%20Avsnitt%201%20MP3.mp3</guid>
+  <pubDate>Thu, 25 Sep 2025 10:00:00 GMT</pubDate>
+  <description>Det hände en Direct – Oscar och Herman diskuterar det senaste i fightingspelvärlden.</description>
+  <itunes:summary>Oscar och Herman pratar om det senaste som hände i fightingspelsscenen och delar sina tankar kring Direct-eventet.</itunes:summary>
+  <itunes:duration>01:15:52</itunes:duration> <!-- Ange korrekt längd -->
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
     <!-- === AVSNITT SLUT === -->
 
   </channel>
 </rss>
+
 
 
