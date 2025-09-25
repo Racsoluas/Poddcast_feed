@@ -15,7 +15,9 @@
       <itunes:email>dinmail@example.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://racsoluas.se/poddcover.png"/>
-    <itunes:category text="Video Games"/>
+    <itunes:category text="Games & Hobbies > Video Games"/>
+    <itunes:explicit>no</itunes:explicit>
+
 
     <!-- === AVSNITT START === -->
     <item>
@@ -29,3 +31,4 @@
 
   </channel>
 </rss>
+
